@@ -1,4 +1,4 @@
 # Theoretical physicist
-### Education
-Physics PhD
+
+I'm interested in gravity and holography. I've also become recently interested in spin glasses and critical phenomena. 
 
