@@ -1,5 +1,5 @@
 ## About me
-I'm a theoretical physicist currently working as a postdoc at PUC. 
+I'm a theoretical physicist currently working as a postdoc at the Department of Mathematics of Universidad Catolica de Chile. 
 
 
 ## Research
