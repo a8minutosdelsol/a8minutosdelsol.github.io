@@ -1,5 +1,3 @@
-# Hey!
-
 ### About me
 I'm a theoretical physicist currently working as a postdoc at PUC. 
 
