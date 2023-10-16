@@ -1,3 +1,11 @@
+## Contact information
+cesar.arias@mat.uc.cl
+
+Departamento de Matematica
+Pontificia Universidad Catolica de Chile
+Oficina 252, Edificio Rolando Chuaqui 
+Campus San Joaquín
+
 ## About me
 I'm a theoretical physicist currently working as a postdoc at the Department of Mathematics of the Pontificia Universidad Catolica de Chile. 
 
