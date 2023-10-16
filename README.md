@@ -1,9 +1,9 @@
 ## Contact information
 cesar.arias@mat.uc.cl
 
-Departamento de Matematica
-Pontificia Universidad Catolica de Chile
-Oficina 252, Edificio Rolando Chuaqui 
+Departamento de Matematica  <br>
+Pontificia Universidad Catolica de Chile <br>
+Oficina 252, Edificio Rolando Chuaqui  <br>
 Campus San Joaquín
 
 ## About me
