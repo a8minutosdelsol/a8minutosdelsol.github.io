@@ -11,6 +11,6 @@ I am currently a postdoctoral researcher in the Department of Mathematics at PUC
 
 
 ## Research
-I'm broadly interested in gravity and holography. More recently, I've also become interested in the theory of spin glasses, the renormalization group and critical phenomena.
+I'm broadly interested in gravity and holography. Recently, I've also become interested in the theory of spin glasses, the renormalization group and critical phenomena.
 
 
