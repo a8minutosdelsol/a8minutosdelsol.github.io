@@ -7,7 +7,7 @@ Oficina 252, Edificio Rolando Chuaqui  <br>
 Campus San Joaquín
 
 ## About me
-I am currently a postdoctoral researcher in the Department of Mathematics at PUC Chile. During 2020-2021 I was a Krener Assistant Professor in the Department of Mathematics at University of Calirnia, Davis. I received my PhD in 2019 from Universidad Andres Bello under the supervision of Per Sundell. 
+I am currently a postdoctoral researcher in the Department of Mathematics at PUC Chile. During 2020-2021 I was a Krener Assistant Professor in the Department of Mathematics at University of Calirnia, Davis. I received my PhD in 2019 from Universidad Andres Bello, under the supervision of Per Sundell. 
 
 
 ## Research
